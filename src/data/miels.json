@@ -43,6 +43,7 @@
     "titre": "Miel de Forêt \"2019\"",
     "provenance": "Pays de Chautagne",
     "prix": 8.00,
+    "plusEnStock": true,
     "description": "Clair et cristallisé finement, son goût subtil et agréable est le mariage des miels du Châtaignier et du Tilleul, présents dans la même forêt. Une édition limitée !",
     "color": "#194018",
     "img": "foret-2019.jpg",
